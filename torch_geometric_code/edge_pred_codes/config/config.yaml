@@ -1,0 +1,2 @@
+dataset_path: 'K:\CodeWorkSpace\DeeplApp\graph-network-code\torch_geometric_code\datasets'
+dataset_name: 'Cora'
